@@ -1,0 +1,12 @@
+Webpack (imports/exports) сборщик проекта, опр-ий входную точку проекта
+    Babel
+    Scss
+    Eslint чистатота JS
+    2 Modes
+    - Dev (Dev Server, SourceMaps, Eslint, Not Minified JS & CSS)
+    - Prod (Minified Code)
+Git
+    production
+     1.0.0
+    development
+     1.0.2
